@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin Garay! <br/><a href="https://www.linkedin.com/in/kevin-garay/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@kevingaray_cyberguy/featured">Content Creator</a></h1>
+<h1>Welcome! My name is Kevin Garay. <br/><a href="https://www.linkedin.com/in/kevin-garay/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@kevingaray_cyberguy/featured">Content Creator</a></h1>
 
 <h2>Vulnerability Management Projects:</h2>
 - <b>Qualys Vulnerability Management Detection and Response</b>
@@ -13,8 +13,8 @@
 - [Is WGU Worth it in 2023?](https://www.youtube.com/watch?v=K768l3GiGh8)
 
 <h2> 🤳 Connect with me:</h2>
-- [youtube]: https://www.youtube.com/@kevingaray_cyberguy
-- [linkedin]: https://www.linkedin.com/in/kevin-garay/
+- [youtube](https://www.youtube.com/@kevingaray_cyberguy)
+- [linkedin](https://www.linkedin.com/in/kevin-garay/)
 
 <!--
 **slendymayne/slendymayne* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
