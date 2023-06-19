@@ -13,7 +13,7 @@
 - [Is WGU Worth it in 2023?](https://www.youtube.com/watch?v=K768l3GiGh8)
 
 <h2> 🤳 Connect with me:</h2>
-- [Youtube](https://www.youtube.com/@kevingaray_cyberguy))
+- [Youtube](https://www.youtube.com/@kevingaray_cyberguy)
 - [LinkedIn](https://www.linkedin.com/in/kevin-garay/)
 
 <!--
