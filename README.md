@@ -12,6 +12,12 @@
 - [Learn Qualys Vulnerability Management](https://www.youtube.com/watch?v=l5At5WDj7v0)
 - [Is WGU Worth it in 2023?](https://www.youtube.com/watch?v=K768l3GiGh8)
 
+<h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="KevinGaray | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="KevinGaray | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/@kevingaray_cyberguy
+[linkedin]: https://www.linkedin.com/in/kevin-garay
 <!--
 **slendymayne/slendymayne* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
