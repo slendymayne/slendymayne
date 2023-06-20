@@ -4,8 +4,10 @@
 - <b>Qualys Vulnerability Management Detection and Response</b>
 
 <h2> Security Operations Center Projects:</h2>
-- <b>Building a Honey Net in Azure</b>
-- <b>Building a SOC in Azure</b>
+
+- [Building a SOC in Azure](https://github.com/slendymayne/Azure-Honeynet-SOC/blob/main/README.md)
+
+- [Building a Honeypot in Azure](https://github.com/slendymayne/Creating-Azure-Honeypot/blob/main/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
 
